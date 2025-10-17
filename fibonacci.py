@@ -1,4 +1,4 @@
-n = int(input('How many fibonacci numbers you want to genrate?'))
+n = int(input('How many fibonacci numbers you want to genrate?: '))
 a = 0
 b = 1
 for i in range(n):
